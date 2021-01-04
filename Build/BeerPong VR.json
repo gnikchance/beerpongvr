@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Beer Pong VR",
+"productName": "BeerPongVR",
 "productVersion": "0.1",
 "dataUrl": "BeerPong VR.data.unityweb",
 "wasmCodeUrl": "BeerPong VR.wasm.code.unityweb",
